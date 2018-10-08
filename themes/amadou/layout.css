@@ -1,0 +1,119 @@
+/** Amadou 3.x
+* $Id: layout.css,v 1.1.2.2.2.1 2007/12/07 23:05:15 jwolf Exp $
+*/
+
+#container
+{
+	margin: 0 auto;
+	padding:0;
+	width:960px;
+}
+
+
+/*----------header----------*/
+#header
+{
+	clear:both;
+	height:184px;
+	margin: 0 0 30px 0;
+	padding:0;
+	width:960px;
+}
+
+
+#headertitle 
+
+{
+
+  margin:3.5em 0 0 0;
+  padding:0.25em 0 0 0;
+
+}
+#headerimage
+
+{
+
+  margin:0 0 0 0;
+  padding:0.25em 0.5em 0 0;
+
+}
+
+#headerimage img
+
+{
+
+  margin:0 3em 0 0;
+  padding: 0;
+
+}
+/*----------main content----------*/
+#mainContent
+{
+	float:left;
+	margin:0;
+	overflow:hidden;
+	padding:2.4em 0 4em;
+/*	width is defined with the _get_mainContent_width function in template.php */
+}
+
+
+/*----------side bars----------*/
+#sideBars-bg
+{
+	background: transparent url('images/sidebars-bg.gif') repeat-y scroll left top;
+	float: right;
+/*	width is defined with the _get_sideBars_width function in template.php */
+}
+
+#sideBars
+{
+	background:transparent url('images/sidebars-bg2.gif') no-repeat scroll left bottom;
+	float:right;
+/*	width is defined with the _get_sideBars_width function in template.php */
+}
+
+#leftSidebar
+{
+	float:left;
+	margin:0 0 0 2.45em;
+	padding:0.75em 0 0;
+	width:180px;
+}
+
+#rightSidebar
+{
+	float:left;
+	margin:0;
+	padding:0.75em 0 0 1.45em;
+	width:180px;
+}
+#header-image {
+background:transparent url('') no-repeat scroll 0 0;
+height:263px;
+display:inline-block;
+float:right;
+width:193px;
+}
+
+/*----------footer----------*/
+#footer
+{
+
+	clear:both;
+	margin:1em auto;
+	padding-top:1em;
+	text-align:center;
+
+	width:950px;
+}
+
+.feed-icon{
+   position:absolute;
+   left: 0%;
+   height:32px;
+   width:32px;
+   margin-top:26px;
+   background-image:url(images/rss.png);
+   background-repeat: no-repeat;
+   background-position: 0% 0%;	
+}

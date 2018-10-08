@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://seli-rahmenbau.de/taxonomy/term/71/all" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Referenzen</title>
+    <link>http://seli-rahmenbau.de/taxonomy/term/71/all</link>
+    <description></description>
+    <language>de</language>
+          <item>
+    <title>...</title>
+    <link>http://seli-rahmenbau.de/node/233</link>
+    <description>&lt;div class=&quot;field field-type-filefield field-field-first-picture&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;div class=&quot;filefield-file&quot;&gt;&lt;img class=&quot;filefield-icon field-icon-image-jpeg&quot;  alt=&quot;image/jpeg icon&quot; src=&quot;http://seli-rahmenbau.de/sites/all/modules/filefield/icons/image-x-generic.png&quot; /&gt;&lt;a href=&quot;http://seli-rahmenbau.de/system/files/IMG_1920.JPG&quot; type=&quot;image/jpeg; length=22455&quot;&gt;IMG_1920.JPG&lt;/a&gt;&lt;/div&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;angebot-beschreibung&quot;&gt;&lt;/div&gt;
+</description>
+     <category domain="http://seli-rahmenbau.de/taxonomy/term/71">Referenzen</category>
+ <pubDate>Fri, 29 May 2015 21:47:26 +0000</pubDate>
+ <dc:creator>Sebastian</dc:creator>
+ <guid isPermaLink="false">233 at http://seli-rahmenbau.de</guid>
+  </item>
+  </channel>
+</rss>
